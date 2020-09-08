@@ -16,6 +16,7 @@
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались [Ключи для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
 * 80b427f8-92cd-3aae-ba04-3927fbe17c6
@@ -31,10 +32,17 @@
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 Тестирование производилось в следующем окружении:
-* ОС: Windows 10 Corporate (x64)
-* Версия 1903 (Сборка ОС 18362.959)
+* ОС: 
+
+Windows 10 Corporate (x64)
+
+Версия 1903 (Сборка ОС 18362.959)
+
 
 * Версия Java:
-* openjdk version "11.0.8" 2020-07-14
-* OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)
-* OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
+
+openjdk version "11.0.8" 2020-07-14
+
+OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.8+10)
+
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
